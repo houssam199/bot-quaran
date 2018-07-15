@@ -100,3 +100,5 @@ message.gulid.member(message.author).voiceChannel.join()
        })
 .catch(console.error);
 });
+
+  });

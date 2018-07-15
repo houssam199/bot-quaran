@@ -11,7 +11,7 @@ const prefix = '!'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ألـقرأن ألــكريم`,"http://twitch.tv/S-F")
+client.user.setGame(`ألـقرأن ألـكريم`,"http://twitch.tv/S-F")
 
 
 client.login(process.env.BOT_TOKEN);
